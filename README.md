@@ -13,7 +13,7 @@
 
 This data analysis project aims to provide **insight** into the sales performance of an e-commerce company over the last year.
 
-[Last Year Sales Performance Overview](time_series.png)
+[Last Year Sales Performance Overview](Time_Series.PNG)
 
 ![Time_Series](https://github.com/Diana-Analytics/Documenting-Example/assets/173359109/1af30a10-5b4f-4782-9f84-1ac107e00a69)
 
